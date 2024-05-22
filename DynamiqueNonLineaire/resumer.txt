@@ -1,0 +1,8 @@
+Introduction aux vibrations non-linéaires
+
+aurelien.grolet@ensam.eu
+
+Dans ce cours on présente une introduction aux vibration non-linéaire. Apres avoir fait une brève revue des types de non-linéarité en mécanique, 
+on présente les phénomènes caractéristiques des vibrations non-linéaires, à savoir: les types de solutions possibles, la dépendance entre amplitude et fréquence naturelle de vibration, la distorsion harmoniques, 
+instabilité, les bifurcations et le chaos. Les méthodes d’approximation des solutions périodiques seront évoqués,  et on détaillera la méthode de l’équilibrage harmonique (HBM) et les méthodes de continuations 
+numériques utilisées pour résoudre des systèmes d’équations algébriques. Lors du TP les concepts présentés seront illustrés numériquement sur un exemple simple d’oscillateur de Duffing.
