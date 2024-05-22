@@ -1,0 +1,5 @@
+x0 -0.02+vit0*t ""
+y0 0 ""
+R (1-((x-x0)^2+(y-y0)^2)/Rpoudre^2)*(1-((x-x0)^2+(y-y0)^2)/Rpoudre^2>0) ""
+source alpha*Plaser/(pi*Rlaser^2)*((x-x0)^2+(y-y0)^2<=Rlaser^2) ""
+Vfront 0.8*nz*5*qm_poudre/(pi*Rpoudre^2)/7400*exp(-5*((x-x0)^2+(y-y0)^2)/Rpoudre^2) ""
